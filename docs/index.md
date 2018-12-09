@@ -1,4 +1,4 @@
-<div align=center># **SDN and NFV**</div>
+<div align=center>## SDN and NFV</div>
 
 ## What is SDN (software defined network)?
 Wikipedia define SDN as "a technology for cloud computing that facilitates network management and enables programmatically efficient network configuration in order to improve network performance and monitoring". Or I will put it this way, SDN is a technology to separate the network control plane from the forwarding plane (or routing plane). SDN intended to make the whole network open and programmable.
